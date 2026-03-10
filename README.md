@@ -33,8 +33,8 @@ Clone o repositório
 POST /livros
 Body:
 {
-  "titulo": "Clean Code",
-  "autor": "Robert C. Martin"
+  "titulo": "O Iluminado",
+  "autor": "Stephen King"
 }
 
 ```
